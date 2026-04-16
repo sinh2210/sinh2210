@@ -8,6 +8,17 @@
 - 🎓 IT Student at **Hue University of Science (HUSC)**.
 
 ---
+### 📧 Connect with Me
+<p align="center">
+  <a href="https://github.com/sinh2210">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:sinh041022@gmail.com"> 
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+ 
+</p>
 
 ### 🛠 My Tech Stack
 <p align="left">
