@@ -1,6 +1,4 @@
-<p align="center">
-  # 🌌 Welcome to my tech space!
-</p>
+<h1 align="center">🌌 Welcome to my tech space!</h1>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Do%20Van%20Sinh&fontSize=50" />
@@ -8,6 +6,8 @@
 
 ### 👨‍💻 About Me
 - 🎓 IT Student at **Hue University of Science (HUSC)**.
+- 🚀 Passionate about **Artificial Intelligence** and **Computer Vision**.
+- 🏠 Based in **Hue City, Vietnam**.
 
 ---
 ### 📫 Connect with Me
