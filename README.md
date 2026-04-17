@@ -1,4 +1,6 @@
-# 🌌 Welcome to my tech space!
+<p align="center">
+  # 🌌 Welcome to my tech space!
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Do%20Van%20Sinh&fontSize=50" />
