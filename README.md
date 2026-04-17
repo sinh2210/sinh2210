@@ -8,7 +8,7 @@
 - 🎓 IT Student at **Hue University of Science (HUSC)**.
 
 ---
-### 📧 Connect with Me
+### 📫 Connect with Me
 <p align="center">
   <a href="https://github.com/sinh2210">
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
@@ -50,8 +50,3 @@
 
 ### 🐍 My Commit Snake
 ![Snake animation](https://github.com/sinh2210/sinh2210/blob/output/github-contribution-grid-snake.svg)
-
----
-
-### 📫 Connect with me
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sinhvan041022@gmail.com)
