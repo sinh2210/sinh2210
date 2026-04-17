@@ -1,7 +1,7 @@
 # 🌌 Welcome to my tech space!
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Do%20Van%20Sinh&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Do%20Van%20Sinh&fontSize=50" />
 </p>
 
 ### 👨‍💻 About Me
