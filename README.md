@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
-  <a href="mailto:sinhvan041022@gmail.com"> 
+  <a href="mailto:22.dovansinh@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
  
